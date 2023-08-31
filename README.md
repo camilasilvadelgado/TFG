@@ -11,13 +11,18 @@ A aquest TFG es desenvolupa una metodologia de segmentació automàtica de l'ana
 A aquest repositori es presenta el codi per a l'obtenció de la segmentació d'un TAC. S'obtenen les següents segmentacions en format STL: tiroides (dos mètodes), estructura òssia i vascular, múscul i greix i resta del teixit tou.
 
 El repostiori té la següent estructura. Dues carpetes:
+
 •	**Codi per aconseguir les segmentacions, per l'usuari.** Inclou el codi necessari per obtenir les segmentacions (dos codis amb les dues metodologies de segmentació i els arxius necessaris a tenir al directori per passar les segmentacions a STL).
+
+
 •	**Codi anàlisi i avaluació.** Hi ha el codi desenvolupat per l’anàlisi de la imatge i el GT, la prova de segmentació amb k-means i el codi fet servir per a l’avaluació i el càlcul del coeficient DICE. 
 
 
 ## REQUERIMENTS 
 
 Els requeriments per obtenir les segmentacions són els següents:
+
+
 •	MATLAB amb Image processing Toolbox, Medical Imaging Toolbox
 
 - Funcions '*Converting a 3D logical array into an STL surface mesh*' [(Pàgina web on trobar-les)]([https://es.mathworks.com/matlabcentral/fileexchange/68794-make-stl-of-3d-array-optimal-for-3d-printing?s_tid=prof_contriblnk](https://es.mathworks.com/matlabcentral/fileexchange/27733-converting-a-3d-logical-array-into-an-stl-surface-mesh)).
