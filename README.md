@@ -25,7 +25,7 @@ Els requeriments per obtenir les segmentacions són els següents:
 
 •	MATLAB amb Image processing Toolbox, Medical Imaging Toolbox
 
-- Funcions '*Converting a 3D logical array into an STL surface mesh*' [(Pàgina web on trobar-les)]([https://es.mathworks.com/matlabcentral/fileexchange/68794-make-stl-of-3d-array-optimal-for-3d-printing?s_tid=prof_contriblnk](https://es.mathworks.com/matlabcentral/fileexchange/27733-converting-a-3d-logical-array-into-an-stl-surface-mesh)).
+- Funcions '*Converting a 3D logical array into an STL surface mesh*' [(Pàgina web on trobar-les)]([https://es.mathworks.com/matlabcentral/fileexchange/27733-converting-a-3d-logical-array-into-an-stl-surface-mesh]).
 
 
 </p>
