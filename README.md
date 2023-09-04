@@ -12,7 +12,7 @@ A aquest repositori es presenta el codi per a l'obtenció de la segmentació d'u
 
 El repostiori té la següent estructura. Dues carpetes:
 
-•	**Codi per aconseguir les segmentacions, per l'usuari.** Inclou el codi necessari per obtenir les segmentacions (dos codis amb les dues metodologies de segmentació i els arxius necessaris a tenir al directori per passar les segmentacions a STL).
+•	**Codi per aconseguir les segmentacions, per l'usuari.** Inclou el codi necessari per obtenir les segmentacions (dos codis amb les dues metodologies de segmentació i els arxius necessaris a tenir al directori per passar les segmentacions a STL). S’adjunta també un arxiu format PDF on s’explica el manual per l’usuari per aconseguir les segmentacions, aquest manual és la primera part de l’ANNEX F. Guia per l’usuari, del treball.
 
 
 •	**Codi anàlisi i avaluació.** Hi ha el codi desenvolupat per l’anàlisi de la imatge i el GT, la prova de segmentació amb k-means i el codi fet servir per a l’avaluació i el càlcul del coeficient DICE. 
